@@ -51,8 +51,8 @@
 Изучите самостоятельно ресурсы:
 
 1. [PromQL tutorial for beginners and humans](https://valyala.medium.com/promql-tutorial-for-beginners-9ab455142085).
-1. [Understanding Machine CPU usage](https://www.robustperception.io/understanding-machine-cpu-usage).
-1. [Introduction to PromQL, the Prometheus query language](https://grafana.com/blog/2020/02/04/introduction-to-promql-the-prometheus-query-language/).
+2. [Understanding Machine CPU usage](https://www.robustperception.io/understanding-machine-cpu-usage).
+3. [Introduction to PromQL, the Prometheus query language](https://grafana.com/blog/2020/02/04/introduction-to-promql-the-prometheus-query-language/).
 
 Создайте Dashboard и в ней создайте Panels:
 
@@ -63,15 +63,29 @@
 
 Для решения этого задания приведите promql-запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
 
+---
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/08.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/11.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/12.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/13.png)
+
+---
+
+
 ## Задание 3
 
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
-1. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
+2. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
+
+---
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/14.png)
+
+---
 
 ## Задание 4
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
-1. В качестве решения задания приведите листинг этого файла.
+2. В качестве решения задания приведите листинг этого файла.
 
 ---
 
