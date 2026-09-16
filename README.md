@@ -13,9 +13,29 @@
 В решении к домашнему заданию также приведите все конфигурации, скрипты, манифесты, которые вы 
 использовали в процессе решения задания.
 
+---
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/01.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/02.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/03.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/04.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/09.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/10.png)
+
+
+---
+[install-monitoring.sh](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/install-monitoring.sh)
+
+
+---
 **При решении задания 3** вы должны самостоятельно завести удобный для вас канал нотификации, например, Telegram или email, и отправить туда тестовые события.
 
 В решении приведите скриншоты тестовых событий из каналов нотификаций.
+
+---
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/06.png)
+![monitoring](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/screenshots/07.png)
+
+---
 
 ## Обязательные задания
 
@@ -52,6 +72,11 @@
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
+
+---
+
+[node-exporter-dashboard.json](https://github.com/valdemar-2502/Grafana-visualization-tool---Homework/blob/main/node-exporter-dashboard.json)
+
 
 ---
 
